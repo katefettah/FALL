@@ -8,5 +8,6 @@ public class MyGitClass {
         System.out.println("Carsamba");
         System.out.println("Carsamba");
         System.out.println("remote masterdan guncelledim");
+          System.out.println("remote masterdan guncelledim1")
     }
 }
