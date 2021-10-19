@@ -5,5 +5,6 @@ public class MyGitClass {
         System.out.println("yetti gari");
         System.out.println("Ekim 19");
         System.out.println("Ekim 20");
+        System.out.println("Carsamba");
     }
 }
